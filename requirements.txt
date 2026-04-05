@@ -1,0 +1,10 @@
+flask
+flask-cors
+chromadb
+pypdf
+ollama
+langchain
+langchain-community
+langchain-ollama
+langchain-text-splitters
+sentence-transformers
